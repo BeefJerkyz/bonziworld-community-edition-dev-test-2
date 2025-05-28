@@ -142,6 +142,7 @@ input[type=text] {
   user-select: none;
   top: 0;
   left: 0;
+  cursor: grab;
 }
 
 .bonzi {
@@ -302,10 +303,12 @@ body.vaporwave #chat_send:active {
 
 #content {
   background-color: #6d33a0;
-  background-image: url("../img/desktop/logo.png"), url("../img/desktop/bg.png");
+  background-image: url("../img/desktop/xplandscape.png");
   background-position: top left, center;
   background-repeat: no-repeat;
 }
+
+
 
 #chat_bar {
   position: absolute;
@@ -569,6 +572,7 @@ body.vaporwave #chat_send:active {
   box-sizing: border-box;
   overflow: auto;
 }
+
 
 #page_error, #page_ban, #page_unsupp {
   background-color: rgba(0, 0, 0, 0.5);

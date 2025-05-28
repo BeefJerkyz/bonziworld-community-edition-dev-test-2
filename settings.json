@@ -37,7 +37,7 @@
 				"min": 125,
 				"default": "random"
 			},
-			"defaultName": "Anony-tron"
+			"defaultName": "Anonymous"
 		},
 		"private": {
 			"char_limit": 5000,
@@ -76,7 +76,7 @@
 				"min": 125,
 				"default": "random"
 			},
-			"defaultName": "Anony-tron"
+			"defaultName": "Anonymous"
 		}
 	},
 	"consoleOutput": false,
@@ -106,21 +106,22 @@
 		"black",
 		"brown",
 		"pink",
-		"girly",
+		"peedy",
+		"megatron",
 		"peter",
-		"numberblocks",
+		"scary",
 		"nazar",
-		"sprunkigrayhorror",
+		"scaryred",
+		"girly",
+		"numberblocks",
+		"sprunkicoka",
+		"sprunkicokahorror",
 		"sprunkigray",
+		"sprunkigrayhorror",
 		"sprunkipeppie",
 		"sprunkipeppiehorror",
-		"sprunkicokahorror",
-		"sprunkicoka",
 		"unknownblack",
-		"unknownwhite",
-		"scary",
-		"scaryred",
-		"pope"
+		"unknownwhite"
 	],
 	"banLength": 1440,
 	"port": 3000,
